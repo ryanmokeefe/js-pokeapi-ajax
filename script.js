@@ -1,4 +1,3 @@
-// Make sure to add your API key to the URL!
 const url = 'https://pokeapi.co/api/v2/pokemon/1/';
 
 // $.ajax takes an object as an argument with at least three key-value pairs...
